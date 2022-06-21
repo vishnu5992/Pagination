@@ -1,0 +1,12 @@
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
+INSERT INTO tb_student(name,city) VALUES ('JEGAN','PKM');
+INSERT INTO tb_student(name,city) VALUES ('SIVA','OOTY');
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
+INSERT INTO tb_student(name,city) VALUES ('Vikash','CMR');
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
+INSERT INTO tb_student(name,city) VALUES ('VISHNU','CMR');
